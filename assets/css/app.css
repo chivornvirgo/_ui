@@ -1,0 +1,16 @@
+.fs {
+    width: 100%;
+    min-height: calc(100vh);
+}
+.fs-13 {
+    font-size: 13px;
+}
+.fs-14 {
+    font-size: 14px;
+}
+.fs-20 {
+    font-size: 20px;
+}
+.section-shaped .shape-style-1.shape-default {
+    background: linear-gradient(150deg,#a1aefc 15%,#425efe 70%,#415dfd 94%);
+}
